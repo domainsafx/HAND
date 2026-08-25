@@ -94,9 +94,9 @@ const images = [
 ]
 
 const videos = [
-    '/gallery/Leaf_Plates.mp4',
-    '/gallery/Skill_Development_Opening.mp4',
-    // '/gallery/Leaf_Plates_2.mp4',
+    'https://pub-dbfec4489394492fb244b93720ae6c64.r2.dev/Leaf_Plates.mp4',    
+    'https://pub-dbfec4489394492fb244b93720ae6c64.r2.dev/Skill_Development_Opening.mp4',
+    'https://pub-dbfec4489394492fb244b93720ae6c64.r2.dev/Leaf_Plates_2.mp4',
 ]
 
 export default function GalleryPage() {
