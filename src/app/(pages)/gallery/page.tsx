@@ -96,7 +96,7 @@ const images = [
 const videos = [
     '/gallery/Leaf_Plates.mp4',
     '/gallery/Skill_Development_Opening.mp4',
-    '/gallery/Leaf_Plates_2.mp4',
+    // '/gallery/Leaf_Plates_2.mp4',
 ]
 
 export default function GalleryPage() {
