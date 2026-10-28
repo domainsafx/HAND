@@ -15,13 +15,21 @@ type TeamMember = {
 }
 
 const coreTeam: TeamMember[] = [
-  {
-    id: 'm1',
-    name: 'Kamal C',
-    role: 'Founder & President',
+  // {
+  //   id: 'm1',
+  //   name: 'Kamal C',
+  //   role: 'Founder & President',
+  //   location: 'Hyderabad, IND',
+  //   avatar: '/team/KamalC2.png',
+  //   linkedin: 'https://www.linkedin.com/in/kamal-c-747442171/',
+  // },
+    {
+    id: 'm3',
+    name: 'Sailaja D',
+    role: 'Founder',
     location: 'Hyderabad, IND',
-    avatar: '/team/KamalC2.png',
-    linkedin: 'https://www.linkedin.com/in/kamal-c-747442171/',
+    avatar: '/team/Sailaja.png',
+    linkedin: 'https://www.linkedin.com/in/sailaja-dogiparthi-74669734/',
   },
   {
     id: 'm2',
@@ -31,14 +39,7 @@ const coreTeam: TeamMember[] = [
     avatar: '/team/ManpreetK.png',
     linkedin: 'https://www.linkedin.com/in/manpreet-kaur-44a4aa1aa/',
   },
-  {
-    id: 'm3',
-    name: 'Sailaja D',
-    role: 'Executive Director',
-    location: 'Hyderabad, IND',
-    avatar: '/team/Sailaja.png',
-    linkedin: 'https://www.linkedin.com/in/sailaja-dogiparthi-74669734/',
-  },
+
   {
     id: 'm4',
     name: 'Arun C',
